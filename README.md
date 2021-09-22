@@ -8,3 +8,8 @@ Env ready for React Native development with expo on gitpod
 In package.json change your start script:
 
   `expo start --host tunnel`
+
+
+Start project :
+
+here -> https://gitpod.io/#https://github.com/rcottinet/expo-gitpod-dev-env
