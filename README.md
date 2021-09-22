@@ -10,5 +10,6 @@ In package.json change your start script:
 
  ⚠️ `expo start --host tunnel` ⚠️
 
+Create a Gitpod account here if you havent yet : https://gitpod.io
 
 Start coding here 👉: https://gitpod.io/#/https://github.com/rcottinet/expo-gitpod-dev-env
