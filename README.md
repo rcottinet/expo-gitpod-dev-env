@@ -10,6 +10,6 @@ In package.json change your start script:
   `expo start --host tunnel`
 
 
-Start project :
+Name your project in URL and start coding :
 
-here -> https://gitpod.io/#https://github.com/rcottinet/expo-gitpod-dev-env
+here -> https://gitpod.io/#projectname=MyApp/#https://github.com/rcottinet/expo-gitpod-dev-env
